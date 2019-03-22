@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="config" />
+        <module name="core" />
+        <module name="gateway" />
+        <module name="monitor" />
+        <module name="mybatisGenerator" />
+        <module name="p2p-activity" />
+        <module name="p2p-after-loan" />
+        <module name="p2p-channel" />
+        <module name="p2p-loan" />
+        <module name="p2p-money-wechat" />
+        <module name="p2p-pay" />
+        <module name="p2p-pay-baofoo" />
+        <module name="p2p-pay-chanpay" />
+        <module name="p2p-pay-external" />
+        <module name="p2p-pay-yeepay" />
+        <module name="p2p-report" />
+        <module name="p2p-risk" />
+        <module name="p2p-sdk" />
+        <module name="p2p-sms" />
+        <module name="p2p-system" />
+        <module name="p2p-user" />
+        <module name="p2p-web" />
+        <module name="registry" />
+        <module name="zyj-drshow" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>

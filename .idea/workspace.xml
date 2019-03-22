@@ -1,0 +1,844 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7f6d997e-924d-4cfe-b757-fdfa8ae00a22" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/../git/cj/dev/p2p-report/target/" />
+    <ignored path="$PROJECT_DIR$/../git/cj/dev/p2p-pay-yeepay/target/" />
+    <ignored path="$PROJECT_DIR$/../git/cj/dev/gateway/target/" />
+    <ignored path="$PROJECT_DIR$/../git/cj/dev/p2p-after-loan/target/" />
+    <ignored path="$PROJECT_DIR$/../git/cj/dev/registry/target/" />
+    <ignored path="$PROJECT_DIR$/../git/cj/dev/p2p-money-wechat/target/" />
+    <ignored path="$PROJECT_DIR$/../git/cj/dev/p2p-pay/target/" />
+    <ignored path="$PROJECT_DIR$/../git/cj/dev/p2p-system/target/" />
+    <ignored path="$PROJECT_DIR$/../git/cj/dev/p2p-pay-chanpay/target/" />
+    <ignored path="$PROJECT_DIR$/../git/cj/dev/zyj-drshow/target/" />
+    <ignored path="$PROJECT_DIR$/../git/cj/dev/p2p-loan/target/" />
+    <ignored path="$PROJECT_DIR$/../git/cj/dev/p2p-activity/target/" />
+    <ignored path="$PROJECT_DIR$/../git/cj/dev/p2p-risk/target/" />
+    <ignored path="$PROJECT_DIR$/../git/cj/dev/p2p-channel/target/" />
+    <ignored path="$PROJECT_DIR$/../git/cj/dev/p2p-sms/target/" />
+    <ignored path="$PROJECT_DIR$/../git/cj/dev/p2p-web/target/" />
+    <ignored path="$PROJECT_DIR$/../git/cj/dev/p2p-pay-external/target/" />
+    <ignored path="$PROJECT_DIR$/../git/cj/dev/config/target/" />
+    <ignored path="$PROJECT_DIR$/../git/cj/dev/p2p-user/target/" />
+    <ignored path="$PROJECT_DIR$/../git/cj/dev/target/" />
+    <ignored path="$PROJECT_DIR$/../git/cj/dev/p2p-pay-baofoo/target/" />
+    <ignored path="$PROJECT_DIR$/../git/cj/dev/monitor/target/" />
+    <ignored path="$PROJECT_DIR$/../git/cj/dev/core/target/" />
+    <ignored path="$PROJECT_DIR$/../git/cj/dev/p2p-sdk/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/mybatisGenerator$StartUp__1_.ic" NAME="StartUp (1) Coverage Results" MODIFIED="1544084854604" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/StartUp.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="45" column="7" lean-forward="true" selection-start-line="45" selection-start-column="7" selection-end-line="45" selection-end-column="7" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="253">
+              <caret line="11" column="41" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/jdbc.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="69">
+              <caret line="3" column="17" lean-forward="true" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/riskGeneratorConfig.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2714">
+              <caret line="148" column="92" selection-start-line="148" selection-start-column="77" selection-end-line="148" selection-end-column="92" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/mybatis/generator/MyCommentGenerator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2576">
+              <caret line="61" selection-start-line="61" selection-end-line="61" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>jdbc.path</find>
+      <find>MysqlPaginationPlugin</find>
+      <find>MyBatisGenerator</find>
+      <find>updateByPrimaryKey</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/plugin/MysqlPaginationPlugin.java" />
+        <option value="$PROJECT_DIR$/target/classes/riskGeneratorConfig.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/cj/StartUp.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/org/mybatis/generator/MyCommentGenerator.java" />
+        <option value="$PROJECT_DIR$/../git/cj/dev/p2p-web/src/main/java/com/chuangjin/p2p/web/model/biz/NamelistHitBO.java" />
+        <option value="$PROJECT_DIR$/../git/cj/dev/p2p-risk/src/main/java/com/chuangjin/p2p/risk/interfaces/http/DataServiceController.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/com/cj/smsGeneratorConfig.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/smsGeneratorConfig.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/StartUp.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/com/cj/riskGeneratorConfig.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/riskGeneratorConfig.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/Download/maven/apache-maven-3.6.0" />
+        <option name="userSettingsFile" value="D:\Download\maven\apache-maven-3.6.0\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="mybatisGenerator" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="mybatisGenerator" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="mybatisGenerator" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+          <item name="clean" type="36feed69:MavenProjectsStructure$PluginNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="mybatisGenerator" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+          <item name="mybatis-generator" type="36feed69:MavenProjectsStructure$PluginNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="mybatisGenerator" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="768" />
+    <option name="height" value="788" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="mybatisGenerator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mybatisGenerator" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mybatisGenerator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mybatisGenerator" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mybatisGenerator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mybatisGenerator" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mybatisGenerator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mybatisGenerator" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mybatisGenerator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mybatisGenerator" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="chuangjin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mybatisGenerator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mybatisGenerator" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="chuangjin" type="462c0819:PsiDirectoryNode" />
+              <item name="sms" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mybatisGenerator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mybatisGenerator" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="chuangjin" type="462c0819:PsiDirectoryNode" />
+              <item name="sms" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mybatisGenerator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mybatisGenerator" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="chuangjin" type="462c0819:PsiDirectoryNode" />
+              <item name="sms" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
+              <item name="mapper" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mybatisGenerator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mybatisGenerator" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="chuangjin" type="462c0819:PsiDirectoryNode" />
+              <item name="sms" type="462c0819:PsiDirectoryNode" />
+              <item name="po" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mybatisGenerator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mybatisGenerator" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="generator" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mybatisGenerator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mybatisGenerator" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553219495982" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="show.run.dashboard.notification" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources/com/cj" />
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+      <recent name="org.mybatis.generator" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\workspace\mybatisGenerator\src\main\java\org\mybatis\generator" />
+      <recent name="C:\workspace\mybatisGenerator\src\main\java\plugin" />
+      <recent name="C:\workspace\mybatisGenerator\src\main\resources" />
+      <recent name="C:\workspace\mybatisGenerator\src\main\resources\com\cj" />
+      <recent name="C:\workspace\mybatisGenerator\src\main\java\com\cj" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.StartUp (1)">
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_regexPattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <configuration name="StartUp (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StartUp" />
+      <module name="mybatisGenerator" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StartUp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cj.StartUp" />
+      <module name="mybatisGenerator" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cj.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application (10)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="registry" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.chuangjin.registry.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application (11)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="p2p-report" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.chuangjin.p2p.report.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application (12)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="zyj-drshow" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.chuangjin.zyj.drshow.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application (13)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="p2p-activity" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.chuangjin.p2p.activity.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application (14)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="p2p-channel" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.chuangjin.p2p.channel.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application (15)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="p2p-after-loan" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.chuangjin.p2p.afterLoan.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="p2p-system" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.chuangjin.p2p.system.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application (2)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="monitor" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.chuangjin.p2p.monitor.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application (3)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="p2p-user" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.chuangjin.p2p.user.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application (4)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="p2p-risk" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.chuangjin.p2p.risk.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application (5)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="gateway" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.chuangjin.gateway.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application (6)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="p2p-money-wechat" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.chuangjin.p2p.money.wechat.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application (7)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="p2p-sms" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.chuangjin.p2p.sms.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application (8)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="p2p-loan" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.chuangjin.p2p.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application (9)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="config" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.chuangjin.config.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="p2p-pay-yeepay" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.chuangjin.p2p.pay.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.StartUp" />
+      <item itemvalue="Application.StartUp (1)" />
+      <item itemvalue="Spring Boot.Application" />
+      <item itemvalue="Spring Boot.Application (1)" />
+      <item itemvalue="Spring Boot.Application (10)" />
+      <item itemvalue="Spring Boot.Application (11)" />
+      <item itemvalue="Spring Boot.Application (12)" />
+      <item itemvalue="Spring Boot.Application (13)" />
+      <item itemvalue="Spring Boot.Application (14)" />
+      <item itemvalue="Spring Boot.Application (15)" />
+      <item itemvalue="Spring Boot.Application (2)" />
+      <item itemvalue="Spring Boot.Application (3)" />
+      <item itemvalue="Spring Boot.Application (4)" />
+      <item itemvalue="Spring Boot.Application (5)" />
+      <item itemvalue="Spring Boot.Application (6)" />
+      <item itemvalue="Spring Boot.Application (7)" />
+      <item itemvalue="Spring Boot.Application (8)" />
+      <item itemvalue="Spring Boot.Application (9)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.StartUp (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7f6d997e-924d-4cfe-b757-fdfa8ae00a22" name="Default Changelist" comment="" />
+      <created>1543998063524</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1543998063524</updated>
+      <workItem from="1543998069879" duration="3392000" />
+      <workItem from="1544001578320" duration="5638000" />
+      <workItem from="1544064313207" duration="12829000" />
+      <workItem from="1544423940703" duration="7125000" />
+      <workItem from="1544508337943" duration="1021000" />
+      <workItem from="1544605970671" duration="672000" />
+      <workItem from="1544682218157" duration="626000" />
+      <workItem from="1545638601126" duration="1177000" />
+      <workItem from="1550475778912" duration="2703000" />
+      <workItem from="1552395543990" duration="37000" />
+      <workItem from="1552395818824" duration="3885000" />
+      <workItem from="1552440316903" duration="811000" />
+      <workItem from="1552449886963" duration="1886000" />
+      <workItem from="1552611493723" duration="6272000" />
+      <workItem from="1552721930020" duration="96000" />
+      <workItem from="1552879894472" duration="3573000" />
+      <workItem from="1553049031386" duration="482000" />
+      <workItem from="1553218971526" duration="871000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="53096000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3778626" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49923664" weight="0.3267857" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50076336" side_tool="true" weight="0.32767403" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3267857" />
+      <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Data View" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Database" order="7" weight="0.32967034" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Maven Projects" order="9" weight="0.32967034" />
+      <window_info anchor="right" id="Maven" order="10" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="SHOW_DIRTY_RECURSIVELY" value="true" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/../git/cj/dev" />
+    </ignored-roots>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/cj/StartUp.java</url>
+          <line>31</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/StartUp.java</url>
+          <line>22</line>
+          <properties class="StartUp" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/cj/StartUp.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/generator/mybatis-generator-core/1.3.2/mybatis-generator-core-1.3.2.jar!/org/mybatis/generator/plugins/EqualsHashCodePlugin.class" />
+    <entry file="file://$PROJECT_DIR$/target/classes/jdbc.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="57" selection-start-column="10" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../git/cj/dev/p2p-risk/src/main/java/com/chuangjin/p2p/risk/service/impl/ContactRecordServiceImpl.java" />
+    <entry file="file://$PROJECT_DIR$/../git/cj/dev/p2p-web/src/main/webapp/templates/risk/informationCrawl/queryCallLogCrawl.vm" />
+    <entry file="file://$PROJECT_DIR$/../git/cj/dev/p2p-web/src/main/webapp/templates/creditaudit/call_list.vm" />
+    <entry file="file://$PROJECT_DIR$/../git/cj/dev/gateway/src/main/java/com/chuangjin/gateway/filter/AccessFilter.java" />
+    <entry file="file://$PROJECT_DIR$/../git/cj/dev/p2p-risk/src/main/java/com/chuangjin/p2p/risk/model/po/FlowPO.java" />
+    <entry file="file://$PROJECT_DIR$/target/classes/riskGeneratorConfig.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="539">
+          <caret line="35" column="72" lean-forward="true" selection-start-line="35" selection-start-column="72" selection-end-line="35" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ssm/entity/FlowPOExample.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ssm/entity/FlowPO.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/plugin/MysqlPaginationPlugin.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/chuangjin/p2p/risk/model/po/FlowPO.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/chuangjin/p2p/risk/model/po/FlowPOExample.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/chuangjin/p2p/risk/model/po/FlowPOKey.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/chuangjin/p2p/risk/dao/FlowPOMapper.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/chuangjin/p2p/risk/dao/mapper/FlowPOMapper.xml" />
+    <entry file="file://$PROJECT_DIR$/../git/cj/dev/p2p-risk/src/main/java/com/chuangjin/p2p/risk/service/impl/BaiqishiServiceImpl.java" />
+    <entry file="file://$PROJECT_DIR$/../git/cj/dev/p2p-risk/src/main/java/com/chuangjin/p2p/risk/service/impl/BaiqishiYysLogServiceImpl.java" />
+    <entry file="file://$PROJECT_DIR$/../git/cj/dev/p2p-risk/src/main/java/com/chuangjin/p2p/risk/service/DataService.java" />
+    <entry file="file://$PROJECT_DIR$/../git/cj/dev/p2p-web/src/main/java/com/chuangjin/p2p/web/model/biz/NamelistHitBO.java" />
+    <entry file="file://$PROJECT_DIR$/../git/cj/dev/p2p-risk/src/main/java/com/chuangjin/p2p/risk/interfaces/http/DataServiceController.java" />
+    <entry file="file://$PROJECT_DIR$/../git/cj/dev/core/src/main/java/com/chuangjin/core/utils/JsonUtils.java" />
+    <entry file="file://$PROJECT_DIR$/../git/cj/dev/p2p-pay/src/main/java/com/chuangjin/p2p/pay/scheduler/job/WithdrawJob.java" />
+    <entry file="file://$PROJECT_DIR$/../git/cj/dev/p2p-risk/src/main/java/com/chuangjin/p2p/risk/utils/TestBjh.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/chuangjin/zyj/dmp/model/po/AreaPOExample.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/chuangjin/zyj/dmp/model/po/AreaPO.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/chuangjin/zyj/dmp/dao/AreaPOMapper.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/chuangjin/zyj/dmp/dao/mapper/AreaPOMapper.xml" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/chuangjin/zyj/dmp/model/po/ConpanyPO.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/chuangjin/zyj/dmp/model/po/TeamPOExample.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/chuangjin/zyj/dmp/dao/TeamPOMapper.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/com/cj/payGeneratorConfig.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5925">
+          <caret line="20" column="29" selection-start-line="20" selection-start-column="29" selection-end-line="20" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/com/cj/userGeneratorConfig.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-934" />
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/generator/mybatis-generator-core/1.3.2/mybatis-generator-core-1.3.2.jar!/org/mybatis/generator/internal/NullProgressCallback.class" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/generator/mybatis-generator-core/1.3.2/mybatis-generator-core-1.3.2.jar!/org/mybatis/generator/api/MyBatisGenerator.class" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/com/cj/smsGeneratorConfig.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="685">
+          <caret line="37" column="55" selection-start-line="37" selection-start-column="55" selection-end-line="37" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/com/cj/riskGeneratorConfig.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-161">
+          <caret line="8" column="46" lean-forward="true" selection-start-line="8" selection-start-column="46" selection-end-line="8" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/chuangjin/p2p/sms/dao/WechatSendLogPOMapper.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/chuangjin/p2p/sms/dao/SMSCreditFlowPOMapper.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/chuangjin/p2p/sms/model/po/SMSCreditFlowPO.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/chuangjin/p2p/sms/model/po/SMSCreditFlowPOExample.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/chuangjin/p2p/sms/dao/mapper/WechatSendLogPOMapper.xml" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/chuangjin/p2p/sms/model/po/WechatSendLogPO.java" />
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" column="41" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/jdbc.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" column="17" lean-forward="true" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/com/cj/jdbc.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/com/cj/table.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/riskGeneratorConfig.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2714">
+          <caret line="148" column="92" selection-start-line="148" selection-start-column="77" selection-end-line="148" selection-end-column="92" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/mybatis/generator/MyCommentGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2576">
+          <caret line="61" selection-start-line="61" selection-end-line="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/StartUp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="45" column="7" lean-forward="true" selection-start-line="45" selection-start-column="7" selection-end-line="45" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>p2p-web:war</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>p2p-sdk</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: org.mybatis.generator:mybatis-generator-core:1.3.2</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

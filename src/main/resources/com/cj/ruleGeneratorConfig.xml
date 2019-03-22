@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE generatorConfiguration
+        PUBLIC "-//mybatis.org//DTD MyBatis Generator Configuration 1.0//EN"
+        "http://mybatis.org/dtd/mybatis-generator-config_1_0.dtd">
+
+<generatorConfiguration>
+	<context id="testTables" targetRuntime="MyBatis3">
+		<!-- 自动识别数据库关键字，默认false -->
+		<property name="autoDelimitKeywords" value="true" />
+		<!--可以使用``包括字段名，避免字段名与sql保留字冲突报错 -->
+		<property name="beginningDelimiter" value="`" />
+		<property name="endingDelimiter" value="`" />
+		<!--插件只能放在sourceFolder的根目录中 -->
+		<plugin type="MysqlPaginationPlugin" />
+		<!-- 调用自定义类，生成注释 -->
+		<commentGenerator type="org.mybatis.generator.MyCommentGenerator">
+		</commentGenerator>
+		<!--数据库连接的信息：驱动类、连接地址、用户名、密码 -->
+		<!-- oracle -->
+		<!-- <jdbcConnection driverClass="oracle.jdbc.driver.OracleDriver" connectionURL="jdbc:oracle:thin:@172.16.254.161:1521/YCAPP" 
+			userId="AGENT" password="AGENT"> </jdbcConnection> -->
+		<jdbcConnection driverClass="com.mysql.jdbc.Driver"
+			connectionURL="jdbc:mysql://172.16.0.163:3306/rule?useUnicode=true&amp;characterEncoding=utf-8"
+			userId="root" password="Aihu0307@163.com">
+			<!-- 读取数据库备注信息必要属性，不加注释会为null -->
+			<property name="remarksReporting" value="true"></property>
+		</jdbcConnection>
+
+		<!-- 默认false，把JDBC DECIMAL 和 NUMERIC 类型解析为 Integer，为 true时把JDBC DECIMAL 
+			和 NUMERIC 类型解析为java.math.BigDecimal -->
+		<javaTypeResolver>
+			<property name="forceBigDecimals" value="false" />
+		</javaTypeResolver>
+
+		<!-- targetProject:生成PO类的位置 -->
+		<javaModelGenerator targetPackage="com.cj.project.rule.domain"
+			targetProject="rule">
+			<!-- enableSubPackages:是否让schema作为包的后缀 -->
+			<property name="enableSubPackages" value="false" />
+			<!-- 从数据库返回的值被清理前后的空格 -->
+			<property name="trimStrings" value="true" />
+		</javaModelGenerator>
+
+		<sqlMapGenerator targetPackage="com.cj.project.rule.mapper"
+			targetProject="rule">
+			<property name="enableSubPackages" value="true" />
+		</sqlMapGenerator>
+
+		<javaClientGenerator type="XMLMAPPER"
+			targetPackage="com.cj.project.rule.mapper" targetProject="rule">
+			<property name="enableSubPackages" value="true" />
+		</javaClientGenerator>
+
+		<!-- 如若想生成example 把 enableCountByExample="false" enableSelectByExample="false"删除即可 -->
+		<!--
+		<table schema="" tableName="rule_history" domainObjectName="RuleHistory"
+			enableDeleteByExample="false" enableUpdateByExample="false"
+			selectByExampleQueryId="true" selectByPrimaryKeyQueryId="true"
+			enableCountByExample="true" enableSelectByExample="true">
+			<property name="useActualColumnNames" value="false" />
+			<property name="constructorBased" value="false" />
+			<property name="ignoreQualifiersAtRuntime" value="false" />
+		</table>
+
+		<table schema="" tableName="rule_condition" domainObjectName="RuleCondition"
+			enableDeleteByExample="false" enableUpdateByExample="false"
+			selectByExampleQueryId="true" selectByPrimaryKeyQueryId="true"
+			enableCountByExample="true" enableSelectByExample="true">
+			<property name="useActualColumnNames" value="false" />
+			<property name="constructorBased" value="false" />
+			<property name="ignoreQualifiersAtRuntime" value="false" />
+		</table>
+		<table schema="" tableName="rule_condition_group"
+			domainObjectName="RuleConditionGroup" enableDeleteByExample="false"
+			enableUpdateByExample="false" selectByExampleQueryId="true"
+			selectByPrimaryKeyQueryId="true" enableCountByExample="true"
+			enableSelectByExample="true">
+			<property name="useActualColumnNames" value="false" />
+			<property name="constructorBased" value="false" />
+			<property name="ignoreQualifiersAtRuntime" value="false" />
+		</table>
+		<table schema="" tableName="rule_event" domainObjectName="RuleEvent"
+			enableDeleteByExample="false" enableUpdateByExample="false"
+			selectByExampleQueryId="true" selectByPrimaryKeyQueryId="true"
+			enableCountByExample="true" enableSelectByExample="true">
+			<property name="useActualColumnNames" value="false" />
+			<property name="constructorBased" value="false" />
+			<property name="ignoreQualifiersAtRuntime" value="false" />
+		</table>
+		<table schema="" tableName="rule_factor" domainObjectName="RuleFactor"
+			enableDeleteByExample="false" enableUpdateByExample="false"
+			selectByExampleQueryId="true" selectByPrimaryKeyQueryId="true"
+			enableCountByExample="true" enableSelectByExample="true">
+			<property name="useActualColumnNames" value="false" />
+			<property name="constructorBased" value="false" />
+			<property name="ignoreQualifiersAtRuntime" value="false" />
+		</table>
+		<table schema="" tableName="rule_group" domainObjectName="RuleGroup"
+			enableDeleteByExample="false" enableUpdateByExample="false"
+			selectByExampleQueryId="true" selectByPrimaryKeyQueryId="true"
+			enableCountByExample="true" enableSelectByExample="true">
+			<property name="useActualColumnNames" value="false" />
+			<property name="constructorBased" value="false" />
+			<property name="ignoreQualifiersAtRuntime" value="false" />
+		</table>
+		<table schema="" tableName="rule" domainObjectName="Rule"
+			enableDeleteByExample="false" enableUpdateByExample="false"
+			selectByExampleQueryId="true" selectByPrimaryKeyQueryId="true"
+			enableCountByExample="true" enableSelectByExample="true">
+			<property name="rootClass" value="com.cj.framework.web.domain.BaseEntity"/>
+			<property name="useActualColumnNames" value="false" />
+			<property name="constructorBased" value="false" />
+			<property name="ignoreQualifiersAtRuntime" value="false" />
+		</table>
+		<table schema="" tableName="rule_strategy" domainObjectName="RuleStrategy"
+			enableDeleteByExample="false" enableUpdateByExample="false"
+			selectByExampleQueryId="true" selectByPrimaryKeyQueryId="true"
+			enableCountByExample="true" enableSelectByExample="true">
+			<property name="useActualColumnNames" value="false" />
+			<property name="constructorBased" value="false" />
+			<property name="ignoreQualifiersAtRuntime" value="false" />
+		</table>
+        
+        
+        <table schema="" tableName="rule_flow" domainObjectName="RuleFlow"
+			enableDeleteByExample="false" enableUpdateByExample="false"
+			selectByExampleQueryId="true" selectByPrimaryKeyQueryId="true"
+			enableCountByExample="true" enableSelectByExample="true">
+			<property name="useActualColumnNames" value="false" />
+			<property name="constructorBased" value="false" />
+			<property name="ignoreQualifiersAtRuntime" value="false" />
+		</table>
+		
+		<table schema="" tableName="rule_flow_hit_rule" domainObjectName="RuleFlowHitRule"
+			enableDeleteByExample="false" enableUpdateByExample="false"
+			selectByExampleQueryId="true" selectByPrimaryKeyQueryId="true"
+			enableCountByExample="true" enableSelectByExample="true">
+			<property name="useActualColumnNames" value="false" />
+			<property name="constructorBased" value="false" />
+			<property name="ignoreQualifiersAtRuntime" value="false" />
+		</table>
+		
+		-->
+		
+		<table schema="" tableName="rule_flow_hit_strategy" domainObjectName="RuleFlowHitStrategy"
+			enableDeleteByExample="false" enableUpdateByExample="false"
+			selectByExampleQueryId="true" selectByPrimaryKeyQueryId="true"
+			enableCountByExample="true" enableSelectByExample="true">
+			<property name="useActualColumnNames" value="false" />
+			<property name="constructorBased" value="false" />
+			<property name="ignoreQualifiersAtRuntime" value="false" />
+		</table>
+		
+	</context>
+</generatorConfiguration>

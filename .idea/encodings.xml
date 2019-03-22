@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" addBOMForNewFiles="with NO BOM">
+    <file url="file://$PROJECT_DIR$/../git/cj/dev" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../git/cj/dev/config" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../git/cj/dev/core" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../git/cj/dev/gateway" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../git/cj/dev/monitor" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../git/cj/dev/p2p-activity" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../git/cj/dev/p2p-after-loan" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../git/cj/dev/p2p-channel" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../git/cj/dev/p2p-loan" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../git/cj/dev/p2p-money-wechat" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../git/cj/dev/p2p-pay" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../git/cj/dev/p2p-pay-baofoo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../git/cj/dev/p2p-pay-chanpay" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../git/cj/dev/p2p-pay-external" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../git/cj/dev/p2p-pay-yeepay" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../git/cj/dev/p2p-report" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../git/cj/dev/p2p-risk" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../git/cj/dev/p2p-sdk" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../git/cj/dev/p2p-sms" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../git/cj/dev/p2p-system" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../git/cj/dev/p2p-user" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../git/cj/dev/p2p-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../git/cj/dev/registry" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../git/cj/dev/zyj-drshow" charset="UTF-8" />
+  </component>
+</project>
